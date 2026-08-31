@@ -1,0 +1,7 @@
+[book]
+title = "Social Graphs and Interactions"
+authors = []
+language = "en"
+
+[output.html]
+mathjax-support = true
